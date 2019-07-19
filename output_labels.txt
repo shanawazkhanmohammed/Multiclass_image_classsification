@@ -1,0 +1,5 @@
+paper
+metal
+cardboard
+glass
+plastic
